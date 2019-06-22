@@ -21,6 +21,10 @@ module.exports = {
     {
       label: 'Besides work',
       path: '/pages/projects'
+    },
+    {
+      label: 'Resources',
+      path: '/pages/resources'
     }
   ],
   author: {
