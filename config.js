@@ -7,23 +7,23 @@ module.exports = {
   subtitle: 'I\'m a Software Engineer working in Tel Aviv. I\'m a challenge seeker, self starter, and creative thinker.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 10,
   googleAnalyticsId: 'UA-141221334-1',
   menu: [
     {
-      label: 'Articles',
+      label: '📌 Posts',
       path: '/'
     },
     {
-      label: 'About me',
+      label: '👋 About me',
       path: '/pages/about'
     },
     {
-      label: 'Besides work',
+      label: '⚡️ Besides work',
       path: '/pages/projects'
     },
     {
-      label: 'Resources',
+      label: '📚 Resources',
       path: '/pages/resources'
     }
   ],

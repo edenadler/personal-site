@@ -10,7 +10,7 @@ const getContactHref = (name: string, contact: string) => {
       href = `https://github.com/edenadler`;
       break;
     case 'email':
-      href = `mailto:${contact}`;
+      href = `mailto:eden.n.adler@gmail.com`;
       break;
     case 'instagram':
       href = `https://www.instagram.com/edenadler/`;
