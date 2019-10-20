@@ -1,5 +1,6 @@
 import React from 'react';
 import { withPrefix, Link } from 'gatsby';
+import { getContactHref } from '../../../utils';
 import styles from './Author.module.scss';
 
 const Author = ({ author, isIndex }) => (
@@ -23,7 +24,16 @@ const Author = ({ author, isIndex }) => (
         <Link className={styles['author__title-link']} to="/">{author.name}</Link>
       </h2>
     )}
-    <p className={styles['author__subtitle']}>{author.bio}</p>
+    <p className={styles['author__subtitle']}>
+      {author.bio}
+      <a
+          className={styles['author__bio-twitter']}
+          href={getContactHref('instagram', author.contacts.instagram)}
+          rel="noopener noreferrer"
+          target="_blank"
+        > Follow my journey.
+        </a>
+    </p>
   </div>
 );
 

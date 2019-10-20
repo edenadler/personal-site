@@ -3,7 +3,7 @@
 module.exports = {
   siteUrl: `https://edenadler.com`,
   url: 'https://edenadler.com',
-  title: 'Eden Adler\'s Personal Blog',
+  title: 'Eden Adler | Software Engineer | Woman in Tech',
   subtitle: 'I\'m a Software Engineer working in Tel Aviv. I\'m a challenge seeker, self starter, and creative thinker.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -21,6 +21,10 @@ module.exports = {
     {
       label: '⚡️ Besides work',
       path: '/pages/projects'
+    },
+    {
+      label: '🔗 Media',
+      path: '/pages/media'
     },
     {
       label: '📚 Resources',
