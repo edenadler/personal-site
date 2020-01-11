@@ -26,10 +26,10 @@ module.exports = {
       label: '🔗 Media',
       path: '/pages/media'
     },
-    {
-      label: '📚 Resources',
-      path: '/pages/resources'
-    }
+    // {
+    //   label: '📚 Resources',
+    //   path: '/pages/resources'
+    // }
   ],
   author: {
     name: 'Eden Adler',

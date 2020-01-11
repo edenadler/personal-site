@@ -10,6 +10,8 @@ template: "page"
 • I'm a coding bootcamp grad  
 • I work at a startup called [Lemonade](https://www.lemonade.com/)  
 
+<img src="/media/lemonade.png" alt="Lemonade">
+
 ## Things I'm passionate about:
 
 • Design Thinking  

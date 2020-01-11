@@ -13,11 +13,10 @@ export const PureAuthor = ({ data }: Object) => {
         {author.bio}
         <a
           className={styles['author__bio-twitter']}
-          href={getContactHref('twitter', author.contacts.twitter)}
+          href={getContactHref('instagram', author.contacts.instagram)}
           rel="noopener noreferrer"
           target="_blank"
-        >
-          <strong>{author.name}</strong> on Twitter
+        >Follow my journey
         </a>
       </p>
     </div>
