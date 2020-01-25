@@ -14,10 +14,10 @@ const Page = ({ title, children }) => {
               title="Coding Blonde - Women in Tech Weekly Feature: Eden"/>
             <Feature image="/media/hummusandtech.jpg" link="https://podcasts.apple.com/us/podcast/episode-10-season-finale-eden-software-engineer-lemonade/id1457747094?i=1000450779906"
               title="Hummus and Tech: Episode 10 Season Finale with Eden, Software Engineer @ Lemonade"/>
-            <Feature image="/media/astoldbywomen.png" link="https://astoldbywomen.com/eden-adler-let-your-curiosity-lead-you/"
+            <Feature image="/media/astoldbywomen-min.png" link="https://astoldbywomen.com/eden-adler-let-your-curiosity-lead-you/"
               title="As Told By Women: Let your curiosity lead you with Eden Adler"/>
             <h2 id="speaking-engagements">Speaking Engagements</h2>
-            <Feature image="/media/nbn.jpg" link="https://www.eventbrite.com/e/next-israel-networking-event-tickets-75132024909#"
+            <Feature image="/media/nbn-min.jpg" link="https://www.eventbrite.com/e/next-israel-networking-event-tickets-75132024909#"
               title="Panelist at Next: Israel Networking Event" subtitle="Flown to NY to be one of three panelists at career and networking event"/>
             <Feature image="/media/lewagonevent.png" link="https://www.meetup.com/Le-Wagon-TLV-Coding-Bootcamp/events/261974682/"
               title="Speaking to Le Wagon Coding Bootcamp"/>

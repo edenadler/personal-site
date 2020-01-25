@@ -2,8 +2,8 @@
 title: "Besides Work"
 template: "page"
 ---
-Here's a few things I'm involved with outside of my day job:
-
+### Here's a few things I'm involved with outside of my day job:
+<br />
 <img src="/media/wosncover.png" alt="Women of Startup Nation"/>
 
 ## [Women of Startup Nation](https://www.facebook.com/womenofstartupnation)

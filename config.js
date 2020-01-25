@@ -12,7 +12,7 @@ module.exports = {
   menu: [
     {
       label: '📌 Posts',
-      path: '/pages/posts'
+      path: '/'
     },
     {
       label: '👋 About me',
