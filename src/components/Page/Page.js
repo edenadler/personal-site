@@ -10,6 +10,8 @@ const Page = ({ title, children }) => {
           { title && <h1 className={styles['page__title']}>{title}</h1>}
           <div className={styles['page__body']}>
             <h2 id="features">Features</h2>
+            <Feature image="/media/codingblondeyoutube.jpg" link="https://codingblonde.com/changing-careers-and-getting-into-tech-experience-of-3-self-taught-programmers/"
+              title="Changing Careers: Getting into Tech - Tips from Self Taught Programmers"/>
             <Feature image="/media/womenintechweekly.png" link="https://codingblonde.com/eden-adler/"
               title="Coding Blonde - Women in Tech Weekly Feature: Eden"/>
             <Feature image="/media/hummusandtech.jpg" link="https://podcasts.apple.com/us/podcast/episode-10-season-finale-eden-software-engineer-lemonade/id1457747094?i=1000450779906"
@@ -17,6 +19,8 @@ const Page = ({ title, children }) => {
             <Feature image="/media/astoldbywomen-min.png" link="https://astoldbywomen.com/eden-adler-let-your-curiosity-lead-you/"
               title="As Told By Women: Let your curiosity lead you with Eden Adler"/>
             <h2 id="speaking-engagements">Speaking Engagements</h2>
+            <Feature image="/media/jdc-entwine-covid.png" link="https://www.facebook.com/watch/?v=3800678639988510"
+              title="Entwine Exclusive with Michael Hartal, Interviewed by Eden Adler"/>
             <Feature image="/media/nbn-min.jpg" link="https://www.eventbrite.com/e/next-israel-networking-event-tickets-75132024909#"
               title="Panelist at Next: Israel Networking Event" subtitle="Flown to NY to be one of three panelists at career and networking event"/>
             <Feature image="/media/lewagonevent.png" link="https://www.meetup.com/Le-Wagon-TLV-Coding-Bootcamp/events/261974682/"
@@ -24,6 +28,8 @@ const Page = ({ title, children }) => {
             <Feature image="/media/itc.jpeg"
               title="Speaking to Israel Tech Challenge Coding Bootcamp (biannual engagement)"/>
             <h2 id="awards-grants">Awards & Grants</h2>
+            <Feature image="/media/rising-technologist-2020.jpg" link="https://techplaymakerawards.com/categories/rising-technologist"
+              title="Booking.com Tech Playmaker Awards 2020 Rising Technologist Finalist"/>
             <Feature image="/media/izigrant.jpg" link="https://www.jpost.com/Israel-News/Nefesh-BNefesh-awards-twelve-projects-by-olim-with-grants-and-support-581387"
               title="1 of 12 Initiative for Zionist Innovation grant recipients"/>
             <h2 id="mentions">Mentions</h2>
